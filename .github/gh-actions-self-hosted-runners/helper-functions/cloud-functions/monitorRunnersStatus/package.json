@@ -9,6 +9,6 @@
     "@google-cloud/functions-framework": "^2.0.0",
     "@google-cloud/secret-manager": "^3.11.0",
     "@octokit/auth-app": "^3.6.1",
-    "octokit": "^1.7.1"
+    "octokit": "^4.0.2"
   }
 }
